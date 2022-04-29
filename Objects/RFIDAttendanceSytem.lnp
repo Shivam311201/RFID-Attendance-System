@@ -1,0 +1,3 @@
+".\Objects\RFID.obj" 
+TO ".\Objects\RFIDAttendanceSytem" 
+PRINT(".\Listings\RFIDAttendanceSytem.m51") CODE( 0X0000-0X0FFF )
